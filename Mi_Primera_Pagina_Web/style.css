@@ -1,0 +1,21 @@
+
+body{
+  background: linear-gradient(to right, #ffefba, #ffffff); 
+}
+p{
+  text-align: center;
+  
+}
+h1.firsth1{
+  text-align: center;
+  
+}
+p.secondp{
+  font-size: 20px;
+
+}
+
+em strong{
+  color:red;
+}
+
